@@ -1,5 +1,4 @@
-# library-management-system
-# Library Management System
+# library-management-system 
 
 ## Project Idea
 
